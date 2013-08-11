@@ -1,0 +1,4 @@
+#!/bin/sh
+# Скрипт компиляции
+
+npm run-script clean
