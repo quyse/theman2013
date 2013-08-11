@@ -1,0 +1,17 @@
+{
+    "name": "theman2013"
+  , "version": "0.0.1"
+  , "private": true
+  , "main": "lib/main-server.js"
+  , "scripts": {
+	    "start": "node ."
+	  , "build-development": "CONFIGURATION=development node build/build.js"
+	  , "build-production": "CONFIGURATION=production node build/build.js"
+	  , "build": "npm run-script build-production"
+	  , "clean": "node build/clean.js"
+  }
+  , "dependencies": {
+      "express": ">= 2.4.0"
+    , "socket.io": ">= 0.8.7"
+  }
+}

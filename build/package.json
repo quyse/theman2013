@@ -1,0 +1,12 @@
+{
+    "name": "air-build"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "ice": ">= 0.0.0"
+    , "uglify-js": ">= 1.0.6"
+    , "jade": ">= 0.13.0"
+    , "stylus": ">= 0.13.7"
+    , "canvas": ">= 0.8.1"
+  }
+}
