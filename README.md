@@ -6,6 +6,10 @@ The repo contains all build scripts which was used to build the game.
 
 To play the game (the version is exactly as it was submitted to the contest), [follow the link](http://quyse.github.io/theman2013/game-cc2013).
 
+## Authors
+
+quyse, whateverpal, dronimal
+
 ## Requirements
 
 Browser with WebGL support.
